@@ -1,0 +1,21 @@
+{
+	"geode": "4.1.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"dependencies": [
+        {
+            "id": "viper.better_dialog",
+            "version": ">=v1.0.2",
+            "importance": "required"
+        }
+	],
+	"id": "viper.easy_dialog",
+	"name": "Easy Dialog",
+	"version": "v1.0.0",
+	"developer": "Viper",
+	"description": "Easy Dialog is a reimagine of DialogHandler by FigmentBoy"
+}
