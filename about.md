@@ -1,3 +1,4 @@
-# Template Mod
+# Easy Dialog
+a mod aimed to remake [this mod](https://github.com/FigmentBoy/DialogHandler) but for geode
 
-Edit about.md to change this
+for poeple to know, this mod requires you to know json and setup a dialog folder.
