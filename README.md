@@ -1,12 +1,15 @@
 # EasyDialog
 This is where she makes a mod.
-<img src="logo.png" width="150" alt="the mod's logo" />
 
-for help go [here](https://github.com/FigmentBoy/DialogHandler)
+![The Mod's Logo](logo.png)
 
-here is a example one
+based on [this mod](https://github.com/FigmentBoy/DialogHandler).
+
+## Example
+
+Here is an example of the JSON structure:
+
 ```json
-
 {
     "color": 2,
     "lines": [
@@ -22,5 +25,3 @@ here is a example one
         }
     ]
 }
-
-```
